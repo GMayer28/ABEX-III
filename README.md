@@ -207,6 +207,8 @@ Este documento apresenta o processo completo de Design Thinking aplicado ao dese
 
 ### 4.2 Protótipos Visuais
 
+Wireframes / Mockups / Storyboards
+-
 O protótipo foi desenvolvido no Figma e apresenta as principais telas do CodeStudy, incluindo o menu inicial, tela de lições, progresso do usuário e ranking geral.  
 **Link do protótipo:** [https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO](https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO)
 
