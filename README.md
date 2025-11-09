@@ -260,6 +260,11 @@ Maior acessibilidade ao ensino de programação, redução da evasão e estímul
 - Relatório de entrevistas e validação.
 
 ---
+**Telas:**
+
+<div align="center">
+<img src="<img width="822" height="758" alt="Image" src="https://github.com/user-attachments/assets/dca364ab-5d6d-4cae-b24a-bebb5d86bb90" />" />
+</div>
 
 ## Histórico de Alterações
 
