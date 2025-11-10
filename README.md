@@ -93,7 +93,7 @@ O app inclui rankings, métricas de aprendizado e metas diárias, incentivando o
 Estudo em Qualquer Lugar:
 Pensado para momentos curtos do dia, como no ônibus ou durante o tempo livre, permitindo ao usuário estudar a qualquer hora e lugar.
 
-🧠 Solução Resumida
+ Solução Resumida
 
 Iniciar com lógica da programação por meio de perguntas de múltipla escolha.
 Introduzir o aprendizado de algoritmos.
