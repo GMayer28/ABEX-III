@@ -10,7 +10,7 @@ Foi justamente pensando nesses obstáculos que surgiu a ideia de criar um app de
 - Ensino básico de programação, passos iniciais.
 (Ideia inicial - ‘’Duolingo’’ de programação utilizando IA).
 
-**Lista de problemas
+**Lista de problemas**
 -Falta de interesse dos alunos em aula presencial.
 -Dificuldade para dar os primeiros passos no mundo da programação.
 -Entendimento de conceitos básicos.
@@ -25,7 +25,7 @@ Foi justamente pensando nesses obstáculos que surgiu a ideia de criar um app de
 -Fazer com que o usuário não utilize da IA para resolução total do problema,
 apenas como ferramenta de auxílio.
 -Tentar criar uma forma mais didática e atrativa para o ensino de programação.
--Linguagem utilizada para ensino é ‘’complexa’’
+-Linguagem utilizada para ensino é ‘’complexa’’.
 -Falta de atenção.
 -Falta de “vontade” faltando algo que deixe o aluno com uma certa vontade de estudar.
 -Falta de incentivo como algo que esteja sempre lembrando o usuário a estudar.
