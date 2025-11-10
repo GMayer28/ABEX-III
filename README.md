@@ -11,34 +11,59 @@ Foi justamente pensando nesses obstáculos que surgiu a ideia de criar um app de
 (Ideia inicial - ‘’Duolingo’’ de programação utilizando IA).
 
 **Lista de problemas**
--Falta de interesse dos alunos em aula presencial.
--Dificuldade para dar os primeiros passos no mundo da programação.
--Entendimento de conceitos básicos.
--Criar atividades que despertem curiosidade nos alunos.
--Dificuldade para chegar no local de ensino, causando desmotivação.
--Despertar um real interesse para o aprendizado.
--Forma de ensino não adaptada para “nova geração”.
--Falta de plataforma para estudo individual baseado no conhecimento do aluno.
--Conseguir prender a atenção do aluno para o aprendizado.
--Manter aluno motivado a aprender, fazer e entender conteúdo. 
--Falta de tempo para estudo.
--Fazer com que o usuário não utilize da IA para resolução total do problema,
-apenas como ferramenta de auxílio.
--Tentar criar uma forma mais didática e atrativa para o ensino de programação.
--Linguagem utilizada para ensino é ‘’complexa’’.
--Falta de atenção.
--Falta de “vontade” faltando algo que deixe o aluno com uma certa vontade de estudar.
--Falta de incentivo como algo que esteja sempre lembrando o usuário a estudar.
--Desmistificação de que a área da programação é um tipo de bixo de 7 cabeças.
--Falta de prática.
--Falta de tempo.
--Ensino desnecessário.
--Falta de estrutura.
--Falta de orientação correta.
--Falta de diálogo com outras pessoas para solução de problemas.
--Dificuldade para abstração do problema.
--Falta de material para estudo.
--Entender melhor a real dificuldade do aluno.
+Falta de interesse dos alunos em aula presencial.
+
+Dificuldade para dar os primeiros passos no mundo da programação.
+
+Dificuldade no entendimento de conceitos básicos.
+
+Necessidade de criar atividades que despertem curiosidade nos alunos.
+
+Dificuldade para chegar ao local de ensino, causando desmotivação.
+
+Dificuldade em despertar um real interesse para o aprendizado.
+
+Forma de ensino não adaptada à “nova geração”.
+
+Falta de plataforma para estudo individual baseado no conhecimento do aluno.
+
+Dificuldade em prender a atenção do aluno durante o aprendizado.
+
+Manter o aluno motivado a aprender, praticar e entender o conteúdo.
+
+Falta de tempo para estudo.
+
+Garantir que o aluno use a IA apenas como ferramenta de auxílio, não como solução completa.
+
+Criar uma forma mais didática e atrativa para o ensino de programação.
+
+Linguagem utilizada para o ensino é considerada “complexa”.
+
+Falta de atenção durante as aulas.
+
+Falta de vontade, ausência de estímulos para estudar.
+
+Falta de incentivo constante que lembre o aluno de estudar.
+
+Necessidade de desmistificar a ideia de que programação é algo extremamente difícil.
+
+Falta de prática regular.
+
+Falta de tempo (repetido, mas relevante em diferentes contextos).
+
+Ensino considerado desnecessário ou pouco relevante.
+
+Falta de estrutura adequada para o aprendizado.
+
+Falta de orientação correta por parte dos professores ou tutores.
+
+Falta de diálogo com outras pessoas para a solução de problemas.
+
+Dificuldade para abstrair e compreender problemas.
+
+Falta de material adequado para estudo.
+
+Necessidade de entender melhor a real dificuldade do aluno.
 
 
 
