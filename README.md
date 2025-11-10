@@ -65,6 +65,26 @@ Falta de material adequado para estudo.
 
 Necessidade de entender melhor a real dificuldade do aluno.
 
+##Solução para o App "CodeStudy" 
+Uma solução inovadora para esses desafios poderia ser a criação de uma plataforma no estilo “Duolingo” para programação, utilizando inteligência artificial para personalizar o ensino de acordo com o nível de conhecimento do aluno. Essa ferramenta poderia oferecer atividades interativas que estimulam a curiosidade e prendem a atenção, ao mesmo tempo em que evitam que o aluno dependa totalmente da IA para resolver problemas. Além disso, lembretes e incentivos gamificados ajudariam a manter a motivação e o hábito de estudo, tornando o aprendizado mais acessível e envolvente para a nova geração.
+Outro ponto essencial é a desmistificação da programação como algo extremamente complexo e inacessível. Com a abordagem certa, é possível ensinar conceitos fundamentais de forma prática e intuitiva, permitindo que os alunos adquiram confiança e desenvolvam habilidades essenciais. Dessa forma, uma plataforma bem estruturada, aliada a uma metodologia moderna e adaptável, pode revolucionar o ensino de programação e preparar melhor os futuros desenvolvedores.
+
+O CodeStudy é um aplicativo em forma de jogo que ensina programação de forma interativa e acessível, ideal para quem deseja aprender de maneira dinâmica e divertida. Principais Funcionalidades
+Aprendizado Progressivo : O ensino começa pela lógica da programação, utilizando perguntas de múltipla escolha para fixação, seguida de introdução a algoritmos e desafios práticos.
+Problemas Personalizados : A IA cria problemas de programação e ajusta a complexidade conforme a evolução do usuário, além de verificar automaticamente as soluções enviadas.
+Engajamento e Motivação : O app inclui rankings, medição de aprendizado e metas diárias, incentivando o uso frequente e a competição saudável entre os usuários.
+Estudo em Qualquer Lugar : A experiência é pensada para momentos curtos do dia, como no ônibus ou durante o tempo livre.
+SOLUÇÃO - 
+-Partir da lógica da programação, com perguntas de múltipla escolha para fixação.
+-Introdução a algoritmos.
+-Elaborar problemas para serem solucionados pelos usuários.
+-Usar IA para acompanhar evolução e ir criando problemas mais complexos conforme aprendizado.
+-A IA deve criar os problemas e verificar se a solução do usuário está correta.
+-Criar uma forma de medição de aprendizado e de evolução e um ranking entre usuários para influenciar o usuário a se manter ativo e usar frequentemente o aplicativo.
+-Perfil de usuário.
+-Permitir que o usuário consiga aprender durante qualquer momento do dia, estando em um ônibus a caminho da faculdade, ou quando está sem nada para fazer.
+
+
 
 
 ## Comparação com outros apps
