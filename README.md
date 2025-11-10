@@ -1,6 +1,30 @@
 # ABEX-III
 # Projeto CodeStudy — Aplicativo de Aprendizado de Programação
 
+
+
+
+## Comparação com outros apps
+
+| **RECURSO**                             | **CODESTUDY** | **MIMO**   | **SOLOLEARN** | **DATACAMP** |
+| --------------------------------------- | ------------- | ---------- | ------------- | ------------ |
+| **Linguagens**                          | –             | –          | –             | –            |
+| **Possui assinatura**                   | SIM           | SIM        | SIM           | SIM          |
+| **Gratuito**                            | EM PARTE      | EM PARTE   | –             | EM PARTE     |
+| **Formato de jogo**                     | SIM           | SIM        | SIM           | SIM          |
+| **Ranking**                             | SIM           | SIM        | SIM           | SIM          |
+| **Perfil de usuário**                   | SIM           | –          | SIM           | SIM          |
+| **Aprendizado personalizado**           | SIM           | SIM        | SIM           | SIM          |
+| **Mapa de evolução**                    | SIM           | SIM        | NÃO           | SIM          |
+| **Parceria com instituições de ensino** | SIM           | NÃO        | NÃO           | SIM          |
+| **Plataforma**                          | MOBILE        | MOBILE/WEB | MOBILE/WEB    | MOBILE/WEB   |
+| **Tarefas criadas por IA**              | SIM           | NÃO        | NÃO           | NÃO          |
+| **Assistência por IA**                  | SIM           | SIM        | SIM           | SIM          |
+| **Certificado**                         | –             | –          | –             | SIM          |
+| **Cursos no app**                       | SIM           | SIM        | SIM           | SIM          |
+
+
+
 ## Objetivo
 Este documento apresenta o processo completo de Design Thinking aplicado ao desenvolvimento do projeto **CodeStudy**, uma plataforma digital gamificada que utiliza Inteligência Artificial (IA) para apoiar o aprendizado inicial de programação. O objetivo do projeto é tornar o ensino de programação mais acessível, interativo e personalizado, reduzindo a taxa de desistência e promovendo o engajamento contínuo dos alunos.
 
