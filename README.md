@@ -265,7 +265,21 @@ Maior acessibilidade ao ensino de programação, redução da evasão e estímul
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/04f74d659de99016faea05a185a7d4a3fc81db9d/img/login_criar%20conta.png" />
 </div>
-
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/2.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/3.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/4.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/5.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/6.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/7.png" />
+</div>
+<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/8.png" />
+</div>
 ## Histórico de Alterações
 
 | Data       | Alteração                              | Autor               |
