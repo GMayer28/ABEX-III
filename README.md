@@ -147,6 +147,10 @@ Este documento apresenta o processo completo de Design Thinking aplicado ao dese
 
 ### 1.1 Stakeholders
 
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/294c0c12510e39a1c0832d42e969243636a63758/img/abex%2021_10.pptx.png" />
+</div>
+
 **Clientes**
 - Instituições de ensino interessadas em adotar ferramentas tecnológicas inovadoras.
 - Empresas de tecnologia voltadas à educação (edtechs).
