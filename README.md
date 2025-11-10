@@ -75,6 +75,10 @@ Além disso, lembretes e incentivos gamificados ajudariam a manter a motivação
 Outro ponto essencial é a desmistificação da programação como algo complexo e inacessível. Com uma abordagem prática e intuitiva, é possível ensinar conceitos fundamentais de forma leve, permitindo que os alunos ganhem confiança e desenvolvam habilidades essenciais.
 Assim, uma plataforma bem estruturada, aliada a uma metodologia moderna e adaptável, pode revolucionar o ensino de programação e preparar melhor os futuros desenvolvedores.
 
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/3288afd5b051b0da30e09f100965732e513b4396/img/Canvas_abex.pdf.png" />
+</div>
+
  **Sobre o CodeStudy**
 
 O CodeStudy é um aplicativo em formato de jogo que ensina programação de maneira interativa e acessível, ideal para quem deseja aprender de forma dinâmica e divertida.
