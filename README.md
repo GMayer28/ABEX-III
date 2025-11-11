@@ -236,4 +236,12 @@ LOCAL IMAGEM DIAGRAMA
 | **Fluxo Principal** | Seleciona lição $\rightarrow$ Sistema solicita Questão da IA $\rightarrow$ Usuário submete resposta $\rightarrow$ Sistema verifica $\rightarrow$ Atualiza XP e Progresso. | 
 | **Alternativo A (Uso de Dica)** | Se Incorreto, Aluno solicita Dica Não Solutiva (Gerada pela IA) e tenta novamente. |
 
+4.5 Diagrama de Atividades
+
+O fluxo de execução e verificação da resposta está detalhado no diagrama de atividades.
+
+Diagrama PlantUML:
+
+LOCAL IMAGEM DIAGRAMA DE ATIVIDADES
+
 
