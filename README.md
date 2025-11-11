@@ -100,3 +100,48 @@ Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigua
 | **Problemas** | O aprendizado de programação é desafiador para iniciantes. | A gamificação aumenta a motivação e o engajamento. | Qual é o equilíbrio ideal entre jogo e conteúdo educacional? |
 | **Oportunidades** | O mercado carece de ferramentas práticas e personalizadas. | IA pode ajustar o nível de dificuldade com base no desempenho. | Qual será o impacto da IA na autonomia do aprendizado? |
 | **Informações** | Há uma alta taxa de evasão em cursos introdutórios. | O público jovem é mais propenso a utilizar apps mobile para estudar. | Quais métricas devem ser usadas para medir o progresso real? |
+
+2.2 Definição e Síntese
+
+2.2.1 Persona
+
+Nome: João Alves
+
+Idade: 19 anos
+
+Perfil: Estudante do primeiro semestre de Ciência da Computação.
+
+Necessidades: Melhorar sua base em lógica e programação de forma prática.
+
+Motivações: Interesse em tecnologia e busca por um método de aprendizado mais dinâmico.
+
+Dores: Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.
+
+2.2.2 Jornada do Usuário (Fluxo Crítico)
+
+João descobre o app CodeStudy em uma rede social.
+
+Realiza o cadastro e escolhe suas áreas de interesse.
+
+Inicia as lições introdutórias com desafios curtos e pontuação.
+
+Recebe feedback imediato da IA e avança para novos níveis.
+
+Compete em rankings com outros usuários e acompanha sua evolução.
+
+Sente-se motivado a continuar e explorar conteúdos mais avançados.
+
+2.2.3 Problema Central (Como Podemos...?)
+
+Como podemos tornar o aprendizado de programação mais acessível, dinâmico e personalizado, utilizando recursos de IA e gamificação, de forma a reduzir a evasão e aumentar a motivação dos alunos iniciantes?
+
+2.3 Ideação
+
+2.3.1 Avaliação das Ideias
+| Ideia | Impacto | Viabilidade | Inovação | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| Aplicativo gamificado | 3 | 3 | 2 | 8 |
+| Feedback automatizado por IA | 3 | 2 | 3 | 8 |
+| Trilhas personalizadas de aprendizado | 3 | 2 | 3 | 8 |
+| Ranking e competições | 3 | 3 | 1 | 7 |
+| Sistema de recompensas e skins | 2 | 3 | 2 | 7 |
