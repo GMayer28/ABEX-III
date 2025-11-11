@@ -21,15 +21,15 @@ Impacto: Maior acessibilidade ao ensino de programação, redução da evasão e
 | :--- | :--- | :--- |
 | **Repositório e Organização** | | |
 | Repositório Criado no GitHub | **\[x] Concluído** | |
-| Pasta `docs/` para artefatos | **\[ ] Pendente** | Criar pastas `docs/diagramas` e `docs/testes`. |
-| Ativar Project (Kanban) | **\[ ] Pendente** | Ligar o GitHub Project ao repositório. |
+| Pasta `docs/` para artefatos | **\[x] Conclcído** | Criar pastas `docs/diagramas` e `docs/testes`. |
+| Ativar Project (Kanban) | **\[X] Parcial** | Ligar o GitHub Project ao repositório. |
 | **Design Thinking (DT)** | | |
 | DT: Empatia/Imersão | **\[x] Concluído** | Seção 2.1 |
 | DT: Definição (Persona, Jornada, "Como Podemos...") | **\[x] Concluído** | Seção 2.2 |
 | DT: Ideação (Matriz de Ideias) | **\[x] Concluído** | Seção 2.3 |
 | DT: Prototipação (Mockups Figma) | **\[x] Concluído** | Seção 2.4 |
 | DT: Testes/Validação (Roteiro) | **\[ ] Pendente** | `docs/testes/roteiro_teste_rapido.md` |
-| **Requisitos (IEEE)** | | |
+| **Requisitos** | | |
 | Visão, Escopo, Interfaces Externas, Restrições | **\[x] Concluído** | Seção 3.1 |
 | Requisitos Funcionais (RF) | **\[x] Concluído** | Seção 3.2 |
 | Requisitos Não Funcionais (RNF) | **\[x] Concluído** | Seção 3.3 |
@@ -185,7 +185,7 @@ Planejamento: Teste funcional das telas de cadastro, lições e ranking; Teste d
 
 Próximo Passo: Executar o roteiro de teste rápido para validar hipóteses de usabilidade.
 
-3. Requisitos e Escopo (IEEE)
+3. Requisitos e Escopo
 
 3.1 Visão e Escopo
 
