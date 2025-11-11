@@ -6,7 +6,7 @@ ABEX-III: Projeto CodeStudy
 
 "Aprenda a programar de um jeito fácil, divertido e interativo!"
 
-🚀 Pitch (Visão Rápida)
+Pitch (Visão Rápida)
 
 Problema: A dificuldade dos iniciantes em compreender e manter o interesse no aprendizado de programação, levando a altas taxas de desistência.
 
