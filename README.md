@@ -1,4 +1,7 @@
 ABEX-III: Projeto CodeStudy
+<div align="center">
+<img src="" />
+</div>
 
 "Aprenda a programar de um jeito fácil, divertido e interativo!"
 
@@ -159,8 +162,18 @@ Link do Protótipo (Figma): https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO
 Telas Principais
 
 <div align="center">
-<img src="" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/296c0fa5e2b9bdf943665547efe6b7c7772a2a29/img/5.png" />
 </div>
+
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/296c0fa5e2b9bdf943665547efe6b7c7772a2a29/img/2.png" />
+</div>
+
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/296c0fa5e2b9bdf943665547efe6b7c7772a2a29/img/6.png" />
+</div>
+
+
 
 2.5 Testes e Validação
 
