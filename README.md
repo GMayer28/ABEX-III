@@ -117,6 +117,10 @@ Motivações: Interesse em tecnologia e busca por um método de aprendizado mais
 
 Dores: Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.
 
+<div align="center">
+<img src="" />
+</div>
+
 2.2.2 Jornada do Usuário (Fluxo Crítico)
 
 João descobre o app CodeStudy em uma rede social.
@@ -208,23 +212,27 @@ Disponibilidade: Alta disponibilidade e estabilidade do sistema (backend).
 A arquitetura segue o modelo de três camadas, com um componente de IA desacoplado para personalização.
 
 
-LOCAL IMAGEM DIAGRAMA DE COMPONENTES
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/diagrama%20de%20componentes.png" />
+</div>
 
 
 4.2 Visão de Dados (MER Simplificado)
 
 A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário.
 
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/Diagrama%20vis%C3%A3o%20de%20dados.png" />
+</div>
 
-LOCAL IMAGEM DIAGRAMA 
 
 4.3 Modelo de Casos de Uso (UML)
 
 O modelo detalha as principais interações do aluno com o sistema.
 
-Diagrama PlantUML:
-
-LOCAL IMAGEM DIAGRAMA
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/UML.png" />
+</div>
 
 
 4.4 Descrição Textual de Caso de Uso Crítico
@@ -240,8 +248,10 @@ LOCAL IMAGEM DIAGRAMA
 
 O fluxo de execução e verificação da resposta está detalhado no diagrama de atividades.
 
-Diagrama PlantUML:
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/Diagrama%20atividades.png" />
+</div>
 
-LOCAL IMAGEM DIAGRAMA DE ATIVIDADES
+
 
 
