@@ -87,6 +87,9 @@ Estudo em Qualquer Lugar: Pensado para momentos curtos do dia (ex: no ônibus), 
 2.1 Imersão e Empatia
 
 2.1.1 Stakeholders
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/50f7599b94f6dacca51d358649f311cd6bb60cc1/img/Mapa%20stakeholders.png" />
+</div>
 
 Clientes: Instituições de ensino, Empresas de tecnologia (edtechs).
 
