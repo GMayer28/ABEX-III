@@ -183,9 +183,7 @@ Telas Principais
 
 Planejamento: Teste funcional das telas de cadastro, lições e ranking; Teste de usabilidade com usuários iniciantes.
 
-Feedback (Inicial): Usuários destacaram a clareza das atividades e a sensação de progresso contínuo.
-
-Próximo Passo: Executar o roteiro de teste rápido (conforme docs/testes/roteiro_teste_rapido.md) para validar hipóteses de usabilidade (H1, H2, H3).
+Próximo Passo: Executar o roteiro de teste rápido para validar hipóteses de usabilidade.
 
 3. Requisitos e Escopo (IEEE)
 
