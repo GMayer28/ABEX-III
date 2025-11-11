@@ -104,6 +104,9 @@ Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigua
 2.2 Definição e Síntese
 
 2.2.1 Persona
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/3c9e0d046bb0a09107edc3bc106d10cb9d2f1d77/img/Persona.png" />
+</div>
 
 Nome: João Alves
 
@@ -116,10 +119,6 @@ Necessidades: Melhorar sua base em lógica e programação de forma prática.
 Motivações: Interesse em tecnologia e busca por um método de aprendizado mais dinâmico.
 
 Dores: Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.
-
-<div align="center">
-<img src="" />
-</div>
 
 2.2.2 Jornada do Usuário (Fluxo Crítico)
 
@@ -159,7 +158,9 @@ Link do Protótipo (Figma): https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO
 
 Telas Principais
 
-(Imagens dos mockups devem ser inseridas aqui, se disponíveis no repositório)
+<div align="center">
+<img src="" />
+</div>
 
 2.5 Testes e Validação
 
