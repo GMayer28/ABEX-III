@@ -1,437 +1,715 @@
-# ABEX-III
-# Projeto CodeStudy — Aplicativo de Aprendizado de Programação
+ABEX-III: Projeto CodeStudy
 
-##PROBLEMA
+"Aprenda a programar de um jeito fácil, divertido e interativo!"
 
-PROBLEMA
+🚀 Pitch (Visão Rápida)
+
+Problema: A dificuldade dos iniciantes em compreender e manter o interesse no aprendizado de programação, levando a altas taxas de desistência.
+
+Solução: CodeStudy, um aplicativo mobile gamificado que utiliza Inteligência Artificial (IA) para personalizar o aprendizado e aumentar a motivação dos estudantes.
+
+Diferenciais: Adaptação automática ao nível do usuário, experiência de aprendizado em formato de jogo e engajamento contínuo com recompensas e ranking.
+
+Impacto: Maior acessibilidade ao ensino de programação, redução da evasão e estímulo à formação de novos profissionais da área tecnológica.
+
+✅ Checklist de Entrega Parcial (ABEX-III)
+
+Etapa
+
+Status
+
+Referência
+
+Repositório e Organização
+
+
+
+
+
+Repositório Criado no GitHub
+
+[x] Concluído
+
+
+
+Pasta docs/ para artefatos
+
+[ ] Pendente
+
+Criar pastas docs/diagramas e docs/testes.
+
+Ativar Project (Kanban)
+
+[ ] Pendente
+
+Ligar o GitHub Project ao repositório.
+
+Design Thinking (DT)
+
+
+
+
+
+DT: Empatia/Imersão
+
+[x] Concluído
+
+Seção 2.1
+
+DT: Definição (Persona, Jornada, "Como Podemos...")
+
+[x] Concluído
+
+Seção 2.2
+
+DT: Ideação (Matriz de Ideias)
+
+[x] Concluído
+
+Seção 2.3
+
+DT: Prototipação (Mockups Figma)
+
+[x] Concluído
+
+Seção 2.4
+
+DT: Testes/Validação (Roteiro)
+
+[ ] Pendente
+
+Criar docs/testes/roteiro_teste_rapido.md
+
+Requisitos (IEEE)
+
+
+
+
+
+Visão, Escopo, Interfaces Externas, Restrições
+
+[x] Concluído
+
+Seção 3.1
+
+Requisitos Funcionais (RF)
+
+[x] Concluído
+
+Seção 3.2
+
+Requisitos Não Funcionais (RNF)
+
+[x] Concluído
+
+Seção 3.3
+
+Arquitetura e Modelagem (UML/MER)
+
+
+
+
+
+Diagrama de Componentes (Cliente ↔ API ↔ BD)
+
+[x] Concluído
+
+Seção 4.1
+
+Visão de Dados (DER/MER)
+
+[x] Concluído
+
+Seção 4.2
+
+Modelo de Casos de Uso (UML)
+
+[x] Concluído
+
+Seção 4.3
+
+Descrição Textual de Caso de Uso (Fluxos)
+
+[x] Concluído
+
+Seção 4.4
+
+Diagrama de Atividades (Fluxo Crítico)
+
+[x] Concluído
+
+Seção 4.5
+
+Entrega
+
+
+
+
+
+Gerar Release v0.3-ABEXIII (Pós-apresentação)
+
+[ ] Pendente
+
+
+
+1. Visão Geral do Projeto
+
+1.1 Objetivo
+
+Este documento apresenta o processo completo de Design Thinking aplicado ao desenvolvimento do projeto CodeStudy, uma plataforma digital gamificada que utiliza Inteligência Artificial (IA) para apoiar o aprendizado inicial de programação. O objetivo do projeto é tornar o ensino de programação mais acessível, interativo e personalizado, reduzindo a taxa de desistência e promovendo o engajamento contínuo dos alunos.
+
+1.2 O Problema
+
 Muita gente começa a aprender programação cheia de vontade, mas acaba se perdendo no caminho. A linguagem técnica, os conceitos abstratos e a falta de prática tornam o processo mais difícil do que precisa ser. As aulas tradicionais nem sempre conseguem prender a atenção ou se adaptar ao ritmo de cada aluno, o que só aumenta a frustração.
-Foi justamente pensando nesses obstáculos que surgiu a ideia de criar um app de prática de programação no estilo do Duolingo — algo leve, interativo e divertido, que transforma o aprendizado em uma jornada envolvente. A proposta é ajudar quem está começando a desenvolver confiança no código, um passo de cada vez.
 
-- Ensino básico de programação, passos iniciais.
-(Ideia inicial - ‘’Duolingo’’ de programação utilizando IA).
-
-**Lista de problemas**
-Falta de interesse dos alunos em aula presencial.
+Dores Identificadas:
 
 Dificuldade para dar os primeiros passos no mundo da programação.
 
-Dificuldade no entendimento de conceitos básicos.
-
-Necessidade de criar atividades que despertem curiosidade nos alunos.
-
-Dificuldade para chegar ao local de ensino, causando desmotivação.
-
-Dificuldade em despertar um real interesse para o aprendizado.
-
-Forma de ensino não adaptada à “nova geração”.
-
-Falta de plataforma para estudo individual baseado no conhecimento do aluno.
+Falta de interesse dos alunos em aula presencial (Forma de ensino não adaptada).
 
 Dificuldade em prender a atenção do aluno durante o aprendizado.
 
-Manter o aluno motivado a aprender, praticar e entender o conteúdo.
-
-Falta de tempo para estudo.
-
 Garantir que o aluno use a IA apenas como ferramenta de auxílio, não como solução completa.
-
-Criar uma forma mais didática e atrativa para o ensino de programação.
-
-Linguagem utilizada para o ensino é considerada “complexa”.
-
-Falta de atenção durante as aulas.
-
-Falta de vontade, ausência de estímulos para estudar.
-
-Falta de incentivo constante que lembre o aluno de estudar.
 
 Necessidade de desmistificar a ideia de que programação é algo extremamente difícil.
 
-Falta de prática regular.
+Falta de prática regular e falta de tempo para estudo.
 
-Falta de tempo (repetido, mas relevante em diferentes contextos).
+1.3 A Solução: CodeStudy
 
-Ensino considerado desnecessário ou pouco relevante.
+Uma plataforma no estilo “Duolingo” para programação. O aplicativo utiliza inteligência artificial para personalizar o ensino de acordo com o nível do aluno, oferecendo atividades interativas que estimulam a curiosidade.
 
-Falta de estrutura adequada para o aprendizado.
+Lembretes e incentivos gamificados ajudam a manter a motivação e o hábito de estudo, tornando o aprendizado acessível e envolvente.
 
-Falta de orientação correta por parte dos professores ou tutores.
+1.4 Funcionalidades Chave
 
-Falta de diálogo com outras pessoas para a solução de problemas.
+Aprendizado Progressivo: O ensino começa pela lógica da programação (múltipla escolha), seguido de introdução a algoritmos e desafios práticos.
 
-Dificuldade para abstrair e compreender problemas.
+Problemas Personalizados: A IA cria problemas de programação e ajusta a complexidade conforme a evolução do usuário, além de verificar automaticamente as soluções.
 
-Falta de material adequado para estudo.
+Engajamento e Motivação: O app inclui rankings, métricas de aprendizado e metas diárias.
 
-Necessidade de entender melhor a real dificuldade do aluno.
+Estudo em Qualquer Lugar: Pensado para momentos curtos do dia (ex: no ônibus), permitindo ao usuário estudar a qualquer hora e lugar.
 
- **Solução para o App "CodeStudy"**
+2. Design Thinking (DT)
 
-Uma solução inovadora para os desafios do ensino de programação é a criação de uma plataforma no estilo “Duolingo”, voltada para o aprendizado de programação.
-O aplicativo utilizaria inteligência artificial para personalizar o ensino de acordo com o nível de conhecimento do aluno, oferecendo atividades interativas que estimulam a curiosidade e prendem a atenção, sem permitir que o aluno dependa totalmente da IA para resolver os problemas.
+2.1 Imersão e Empatia
 
-Além disso, lembretes e incentivos gamificados ajudariam a manter a motivação e o hábito de estudo, tornando o aprendizado mais acessível, dinâmico e envolvente para a nova geração.
+2.1.1 Stakeholders
 
-Outro ponto essencial é a desmistificação da programação como algo complexo e inacessível. Com uma abordagem prática e intuitiva, é possível ensinar conceitos fundamentais de forma leve, permitindo que os alunos ganhem confiança e desenvolvam habilidades essenciais.
-Assim, uma plataforma bem estruturada, aliada a uma metodologia moderna e adaptável, pode revolucionar o ensino de programação e preparar melhor os futuros desenvolvedores.
+Clientes: Instituições de ensino, Empresas de tecnologia (edtechs).
 
-**"Aprenda a programar de um jeito fácil, divertido e interativo!"**
+Usuários: Estudantes iniciantes, Pessoas em migração de carreira, Professores e tutores.
 
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/888b08a8b4f314cd021f3a109688a22baa367563/img/logo.png" />
-</div>
+Ambiente Externo: Plataformas (Play Store/App Store), APIs de IA, Instituições parceiras.
 
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/3288afd5b051b0da30e09f100965732e513b4396/img/Canvas_abex.pdf.png" />
-</div>
+Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigual) e legais (LGPD).
 
- **Sobre o CodeStudy**
+2.1.2 Matriz CSD (Certezas, Suposições, Dúvidas)
 
-O CodeStudy é um aplicativo em formato de jogo que ensina programação de maneira interativa e acessível, ideal para quem deseja aprender de forma dinâmica e divertida.
+Categoria
 
-**Principais Funcionalidades**
+Certezas
 
-Aprendizado Progressivo:
-O ensino começa pela lógica da programação, utilizando perguntas de múltipla escolha para fixação, seguido de introdução a algoritmos e desafios práticos.
+Suposições
 
-Problemas Personalizados:
-A IA cria problemas de programação e ajusta a complexidade conforme a evolução do usuário, além de verificar automaticamente as soluções enviadas.
+Dúvidas
 
-Engajamento e Motivação:
-O app inclui rankings, métricas de aprendizado e metas diárias, incentivando o uso frequente e a competição saudável entre os usuários.
+Problemas
 
-Estudo em Qualquer Lugar:
-Pensado para momentos curtos do dia, como no ônibus ou durante o tempo livre, permitindo ao usuário estudar a qualquer hora e lugar.
+O aprendizado de programação é desafiador para iniciantes.
 
- Solução Resumida
+A gamificação aumenta a motivação e o engajamento.
 
-Iniciar com lógica da programação por meio de perguntas de múltipla escolha.
-Introduzir o aprendizado de algoritmos.
-Elaborar problemas práticos para serem solucionados pelos usuários.
-Utilizar IA para acompanhar a evolução e criar desafios progressivamente mais complexos.
-A IA deve gerar problemas e verificar automaticamente as soluções.
-Implementar métricas de aprendizado, evolução e ranking entre usuários.
-Criar perfil de usuário com dados de progresso.
-Permitir o aprendizado em qualquer momento e lugar, de forma prática e acessível.
+Qual é o equilíbrio ideal entre jogo e conteúdo educacional?
 
+Oportunidades
 
+O mercado carece de ferramentas práticas e personalizadas.
 
+IA pode ajustar o nível de dificuldade com base no desempenho.
 
-## Comparação com outros apps
+Qual será o impacto da IA na autonomia do aprendizado?
 
-| **RECURSO**                             | **CODESTUDY** | **MIMO**   | **SOLOLEARN** | **DATACAMP** |
-| --------------------------------------- | ------------- | ---------- | ------------- | ------------ |
-| **Linguagens**                          | –             | –          | –             | –            |
-| **Possui assinatura**                   | SIM           | SIM        | SIM           | SIM          |
-| **Gratuito**                            | EM PARTE      | EM PARTE   | –             | EM PARTE     |
-| **Formato de jogo**                     | SIM           | SIM        | SIM           | SIM          |
-| **Ranking**                             | SIM           | SIM        | SIM           | SIM          |
-| **Perfil de usuário**                   | SIM           | –          | SIM           | SIM          |
-| **Aprendizado personalizado**           | SIM           | SIM        | SIM           | SIM          |
-| **Mapa de evolução**                    | SIM           | SIM        | NÃO           | SIM          |
-| **Parceria com instituições de ensino** | SIM           | NÃO        | NÃO           | SIM          |
-| **Plataforma**                          | MOBILE        | MOBILE/WEB | MOBILE/WEB    | MOBILE/WEB   |
-| **Tarefas criadas por IA**              | SIM           | NÃO        | NÃO           | NÃO          |
-| **Assistência por IA**                  | SIM           | SIM        | SIM           | SIM          |
-| **Certificado**                         | –             | –          | –             | SIM          |
-| **Cursos no app**                       | SIM           | SIM        | SIM           | SIM          |
+Informações
 
+Há uma alta taxa de evasão em cursos introdutórios.
 
+O público jovem é mais propenso a utilizar apps mobile para estudar.
 
-## Objetivo
-Este documento apresenta o processo completo de Design Thinking aplicado ao desenvolvimento do projeto **CodeStudy**, uma plataforma digital gamificada que utiliza Inteligência Artificial (IA) para apoiar o aprendizado inicial de programação. O objetivo do projeto é tornar o ensino de programação mais acessível, interativo e personalizado, reduzindo a taxa de desistência e promovendo o engajamento contínuo dos alunos.
+Quais métricas devem ser usadas para medir o progresso real?
 
----
+2.2 Definição e Síntese
 
-## 1) Imersão e Empatia
+2.2.1 Persona
 
-### 1.1 Stakeholders
+Nome: João Alves
 
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/294c0c12510e39a1c0832d42e969243636a63758/img/abex%2021_10.pptx.png" />
-</div>
-
-**Clientes**
-- Instituições de ensino interessadas em adotar ferramentas tecnológicas inovadoras.
-- Empresas de tecnologia voltadas à educação (edtechs).
+Idade: 19 anos
 
-**Usuários**
-- Estudantes iniciantes na área de programação.
-- Pessoas que desejam migrar para a área de tecnologia.
-- Professores e tutores que buscam novas metodologias de ensino.
+Perfil: Estudante do primeiro semestre de Ciência da Computação.
 
-**Ambiente Interno**
-- Equipe de desenvolvimento do aplicativo (programadores, designers e analistas).
-- Equipe de suporte e manutenção técnica.
-- Setor de marketing responsável pela divulgação do produto.
+Necessidades: Melhorar sua base em lógica e programação de forma prática.
 
-**Ambiente Externo**
-- Plataformas de distribuição (Play Store e App Store).
-- APIs e ferramentas de IA utilizadas na personalização do ensino.
-- Instituições parceiras para testes e feedback.
+Motivações: Interesse em tecnologia e busca por um método de aprendizado mais dinâmico.
 
-**Macroambiente**
-- Fatores sociais: falta de incentivo à educação tecnológica de base.
-- Fatores econômicos: acesso desigual a tecnologias digitais.
-- Fatores políticos: incentivos governamentais à formação tecnológica.
-- Fatores legais: aplicação da LGPD para proteção dos dados dos usuários.
+Dores: Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.
 
----
+2.2.2 Jornada do Usuário (Fluxo Crítico)
 
-### 1.2 Necessidades e Dificuldades
+João descobre o app CodeStudy em uma rede social.
 
-**Necessidades**
-- Tornar o ensino de programação mais prático e atrativo.
-- Estimular o aprendizado contínuo e autônomo.
-- Garantir que o usuário tenha feedback imediato sobre seu progresso.
-- Oferecer uma experiência interativa e compatível com dispositivos móveis.
+Realiza o cadastro e escolhe suas áreas de interesse.
 
-**Dificuldades**
-- Linguagem técnica e abstrata que afasta iniciantes.
-- Falta de metodologias interativas nas aulas tradicionais.
-- Escassez de tempo dos alunos para estudo.
-- Manutenção do engajamento ao longo do tempo.
+Inicia as lições introdutórias com desafios curtos e pontuação.
 
-**Restrições**
-- Limitações orçamentárias e técnicas para desenvolvimento do protótipo.
-- Necessidade de integração com sistemas de IA e APIs externas.
-- Dependência de conexões estáveis com servidores de dados.
+Recebe feedback imediato da IA e avança para novos níveis.
 
-**Padrões**
-- Interface responsiva e intuitiva.
-- Estrutura modular com trilhas progressivas.
-- Sistema de pontuação e recompensas.
+Compete em rankings com outros usuários e acompanha sua evolução.
 
----
+Sente-se motivado a continuar e explorar conteúdos mais avançados.
 
-### 1.3 Empatia (Perfil e Comportamentos)
+2.2.3 Problema Central (Como Podemos...?)
 
-**Sentimentos predominantes**
-- Insegurança em relação à capacidade de aprender a programar.
-- Frustração com métodos de ensino pouco dinâmicos.
-- Desejo de compreender e aplicar conceitos de forma prática.
+Como podemos tornar o aprendizado de programação mais acessível, dinâmico e personalizado, utilizando recursos de IA e gamificação, de forma a reduzir a evasão e aumentar a motivação dos alunos iniciantes?
 
-**Expectativas**
-- Aprender de maneira leve e divertida.
-- Receber incentivos e reconhecimento pelo progresso.
-- Acompanhar a própria evolução de forma clara.
+2.3 Ideação
 
-**Medos**
-- Falhar ou desistir antes de compreender o conteúdo.
-- Sentir-se sobrecarregado com a complexidade do tema.
+2.3.1 Avaliação das Ideias
 
-**Aspirações**
-- Desenvolver autonomia em programação.
-- Criar projetos próprios e atuar na área de tecnologia.
+Ideia
 
-**Aspectos culturais**
-- Interesse crescente por tecnologias acessíveis e gamificadas.
-- Valorização de métodos de ensino adaptáveis e digitais.
+Impacto
 
----
+Viabilidade
 
-### 1.4 Matriz CSD (Certezas, Suposições, Dúvidas)
+Inovação
 
-| Categoria        | Certezas                                                                 | Suposições                                                                 | Dúvidas                                                        |
-|------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
-| Problemas        | O aprendizado de programação é desafiador para iniciantes.                | A gamificação aumenta a motivação e o engajamento.                         | Qual é o equilíbrio ideal entre jogo e conteúdo educacional?   |
-| Oportunidades    | O mercado carece de ferramentas de ensino práticas e personalizadas.      | IA pode ajustar o nível de dificuldade com base no desempenho do usuário.  | Qual será o impacto da IA na autonomia do aprendizado?          |
-| Informações      | Há uma alta taxa de evasão em cursos introdutórios de programação.        | O público jovem é mais propenso a utilizar apps mobile para estudar.       | Quais métricas devem ser usadas para medir o progresso real?   |
+Total
 
----
+Aplicativo gamificado
 
-## 2) Definição e Síntese
+3
 
-### 2.1 Persona
+3
 
-**Nome:** João Alves  
-**Idade:** 19 anos  
-**Perfil:** Estudante do primeiro semestre de Ciência da Computação.  
-**Necessidades:** Melhorar sua base em lógica e programação de forma prática.  
-**Motivações:** Interesse em tecnologia e busca por um método de aprendizado mais dinâmico.  
-**Dores:** Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.  
+2
 
----
+8
 
-### 2.2 Jornada do Usuário
+Feedback automatizado por IA
 
-1. João descobre o aplicativo CodeStudy em uma rede social.  
-2. Realiza o cadastro e escolhe a linguagem de programação desejada.  
-3. Inicia as lições introdutórias com desafios curtos e pontuação.  
-4. Recebe feedback imediato e avança para novos níveis.  
-5. Compete em rankings com outros usuários e acompanha sua evolução.  
-6. Sente-se motivado a continuar e explorar conteúdos mais avançados.
+3
 
----
+2
 
-### 2.3 Agrupamento das Informações
+3
 
-**Principais categorias identificadas:**
-- **Motivação:** necessidade de reconhecimento e progresso visível.  
-- **Aprendizado:** desejo por atividades práticas e curtas.  
-- **Interatividade:** preferência por ambientes visuais e dinâmicos.  
-- **Autonomia:** busca por estudo independente com suporte da IA.  
+8
 
----
+Trilhas personalizadas de aprendizado
 
-### 2.4 Insights Principais
+3
 
-- A gamificação favorece o engajamento e a permanência do aluno.  
-- A personalização de conteúdo melhora a experiência de aprendizado.  
-- O acompanhamento em tempo real aumenta a confiança do estudante.  
-- A competição saudável reforça o hábito de estudo diário.  
+2
 
----
+3
 
-### 2.5 Problema Central
+8
 
-**Como podemos tornar o aprendizado de programação mais acessível, dinâmico e personalizado, utilizando recursos de IA e gamificação, de forma a reduzir a evasão e aumentar a motivação dos alunos iniciantes?**
+Ranking e competições
 
----
+3
 
-### 2.6 Requisitos
+3
 
-**Requisitos Funcionais**
-- Cadastro e autenticação de usuários.  
-- Seleção de linguagens de programação.  
-- Sistema de pontuação e ranking.  
-- Feedback automatizado por IA.  
-- Criação e evolução de trilhas personalizadas.  
+1
 
-**Requisitos Não Funcionais**
-- Interface responsiva e intuitiva.  
-- Desempenho otimizado em dispositivos móveis.  
-- Proteção de dados conforme a LGPD.  
-- Alta disponibilidade e estabilidade do sistema.  
+7
 
----
+Sistema de recompensas e skins
 
-## 3) Ideação
+2
 
-### 3.1 Geração de Ideias
+3
 
-- Aplicativo com desafios gamificados.  
-- Sistema de recompensas e conquistas.  
-- Feedback automatizado por IA.  
-- Ranking entre amigos e comunidades.  
-- Trilhas adaptativas de aprendizado.  
-- Integração com universidades e empresas.  
+2
 
----
+7
 
-### 3.2 Avaliação das Ideias
+Ideias Selecionadas: Gamificação com recompensas, IA adaptativa para personalização e Rankings/desafios sociais.
 
-| Ideia                                   | Impacto | Viabilidade | Inovação | Total |
-|----------------------------------------|----------|--------------|-----------|--------|
-| Aplicativo gamificado                  | 3        | 3            | 2         | 8      |
-| Feedback automatizado por IA           | 3        | 2            | 3         | 8      |
-| Ranking e competições                  | 3        | 3            | 1         | 7      |
-| Trilhas personalizadas de aprendizado  | 3        | 2            | 3         | 8      |
-| Sistema de recompensas e skins         | 2        | 3            | 2         | 7      |
+2.4 Prototipação (Fluxo Crítico)
 
-**Ideias Selecionadas:**
-- Gamificação com recompensas.  
-- IA adaptativa para personalização.  
-- Rankings e desafios sociais.  
+O protótipo foi desenvolvido no Figma e apresenta as principais telas do CodeStudy (Login, Seleção de Interesses, Atividades, Ranking e Perfil).
 
----
+Link do Protótipo (Figma): https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO
 
-## 4) Prototipação
+Telas Principais
 
-### 4.1 Modelos Conceituais
+2.5 Testes e Validação
 
-- **Diagrama de Casos de Uso:** cadastro, login, execução de atividades, acompanhamento de progresso, acesso ao ranking.  
-- **Diagrama de Atividades:** fluxo de aprendizado (cadastro → lições → avaliação → recompensas).  
-- **BPMN:** processo geral de interação entre usuário, IA e banco de dados.
+Planejamento: Teste funcional das telas de cadastro, lições e ranking; Teste de usabilidade com usuários iniciantes.
 
----
+Feedback (Inicial): Usuários destacaram a clareza das atividades e a sensação de progresso contínuo.
 
-### 4.2 Protótipos Visuais
+Próximo Passo: Executar o roteiro de teste rápido (conforme docs/testes/roteiro_teste_rapido.md) para validar hipóteses de usabilidade (H1, H2, H3).
 
-Wireframes / Mockups / Storyboards
--
-O protótipo foi desenvolvido no Figma e apresenta as principais telas do CodeStudy, incluindo o menu inicial, tela de lições, progresso do usuário e ranking geral.  
-**Link do protótipo:** [https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO](https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO)
+3. Requisitos e Escopo (IEEE)
 
-**Telas:**
+3.1 Visão e Escopo
 
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/04f74d659de99016faea05a185a7d4a3fc81db9d/img/login_criar%20conta.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/2.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/3.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/4.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/5.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/6.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/7.png" />
-</div>
-<div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/daa5980e05042381f80d6e98c742bc404caf2b9a/img/8.png" />
-</div>
+Visão do Produto: Revolucionar o ensino básico de programação, tornando-o tão acessível e viciante quanto um jogo mobile, por meio de IA e gamificação.
 
----
+Escopo: O produto é um aplicativo MOBILE (iOS/Android) focado no ensino de lógica da programação e algoritmos para iniciantes.
 
-### 4.3 Modelo Lógico
+Interfaces Externas: APIs de Autenticação (Google/Apple), APIs de IA (Geração/Correção de conteúdo) e Plataformas (Play Store/App Store).
 
-- Banco de dados relacional com tabelas para usuários, atividades, progresso e resultados.  
-- Integração com módulos de IA responsáveis pela geração e correção de desafios.  
-- Estrutura modular que permite atualizações e inclusão de novas linguagens.
+Restrições: Limitações orçamentárias e técnicas para o desenvolvimento da IA; Dependência de conexões estáveis com servidores de dados.
 
----
+3.2 Requisitos Funcionais (RFs)
 
-## 5) Testes e Validação
+RF-AUTH: Cadastro e autenticação de usuários (Email, Google, Apple).
 
-**Planejamento de Testes**
-- Teste funcional das principais telas (cadastro, lições, ranking).  
-- Teste de usabilidade com usuários iniciantes.  
-- Avaliação de desempenho e tempo de resposta.
+RF-LEARN: Seleção de linguagens/áreas de interesse.
 
-**Feedback**
-- Usuários destacaram a clareza das atividades e a sensação de progresso contínuo.  
-- Sugestão de ampliar a variedade de linguagens disponíveis.
+RF-GAME: Sistema de pontuação (XP), recompensas e ranking.
 
----
+RF-MAP: Visualização do mapa de evolução (trilhas de aprendizado).
 
-## 6) Pitch e Entrega
+RF-IA-GEN: A IA deve gerar problemas e verificar automaticamente as soluções.
 
-**Problema:**  
-A dificuldade dos iniciantes em compreender e manter o interesse no aprendizado de programação.
+RF-IA-ADAPT: A IA deve criar e evoluir trilhas personalizadas.
 
-**Solução:**  
-CodeStudy, um aplicativo gamificado que utiliza IA para personalizar o aprendizado e aumentar a motivação dos estudantes.
+3.3 Requisitos Não Funcionais (RNFs)
 
-**Diferenciais:**  
-- Adaptação automática ao nível do usuário.  
-- Experiência de aprendizado em formato de jogo.  
-- Engajamento contínuo com recompensas e ranking.
+Usabilidade: Interface responsiva, intuitiva e acessível.
 
-**Impacto:**  
-Maior acessibilidade ao ensino de programação, redução da evasão e estímulo à formação de novos profissionais da área tecnológica.
+Desempenho: Desempenho otimizado em dispositivos móveis (consumo de bateria e dados).
 
----
+Segurança: Proteção de dados conforme a LGPD.
 
-## Anexos
-- Documento de requisitos detalhados.  
-- Diagramas UML e BPMN.  
-- Protótipo no Figma.  
-- Relatório de entrevistas e validação.
+Disponibilidade: Alta disponibilidade e estabilidade do sistema (backend).
 
----
+4. Arquitetura e Modelagem (UML/MER)
 
-## Histórico de Alterações
+4.1 Diagrama de Componentes (Cliente ↔ API ↔ BD)
 
-| Data       | Alteração                              | Autor               |
-|-------------|----------------------------------------|---------------------|
-| 2025-10-17  | Criação e preenchimento do documento   | Guilherme Mayer     |
+A arquitetura segue o modelo de três camadas, com um componente de IA desacoplado para personalização.
 
+@startuml
+title Diagrama de Componentes - CodeStudy
+
+' Definição dos Componentes
+component "Cliente Mobile (App)" as Mobile 
+component "API Gateway / Backend" as Backend
+component "Serviço de IA\n(Motor de Conteúdo)" as IA
+component "Banco de Dados (DB)" as DB
+
+' Definição dos Relacionamentos/Fluxo
+Mobile --> Backend : Solicitações de Usuário\n(Login, Ranking, Atividades)
+Backend --> DB : Armazenamento/Consulta\n(Usuários, Progresso, Ranking)
+Backend --> IA : Solicita Geração/Verificação\n(Problemas Personalizados)
+IA .right.> DB : Consulta Dados de Evolução (opcional)
+@enduml
+
+
+4.2 Visão de Dados (MER Simplificado)
+
+A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário.
+
+@startuml
+hide methods
+entity USUARIO {
+  *id_usuario (PK)
+  --
+  nome
+  email (UNIQUE)
+  senha
+  nivel
+  xp
+}
+
+entity ATIVIDADE {
+  *id_atividade (PK)
+  --
+  titulo
+  tipo (Lógica/Algoritmo)
+  dificuldade
+  conteudo_base
+}
+
+entity PROGRESSO {
+  *id_progresso (PK)
+  --
+  status (Concluido/Em Andamento)
+  pontuacao_maxima
+  data_conclusao
+}
+
+USUARIO "1" -- "N" PROGRESSO : realiza
+ATIVIDADE "1" -- "N" PROGRESSA : é avaliada em
+@enduml
+
+
+4.3 Modelo de Casos de Uso (UML)
+
+Foco nos casos de uso essenciais para o Aluno Iniciante.
+
+@startuml
+left to right direction
+actor "Aluno Iniciante" as Aluno
+package SistemaCodeStudy {
+    usecase "RF-AUTH: Cadastrar Usuário" as UC1
+    usecase "RF-AUTH: Realizar Login" as UC2
+    usecase "RF-MAP: Visualizar Mapa de Atividades" as UC3
+    usecase "RF-IA-GEN: Responder Questão" as UC4
+    usecase "RF-GAME: Acessar Ranking" as UC5
+    usecase "RF-IA-ADAPT: Receber Auxílio (Dica)" as UC6
+}
+
+Aluno --> UC1
+Aluno --> UC2
+Aluno --> UC3
+Aluno --> UC4
+Aluno --> UC5
+
+UC4 .> UC6 : <<include>>
+@enduml
+
+
+4.4 Descrição Textual de Caso de Uso Crítico (RF-IA-GEN)
+
+Atributo
+
+Descrição
+
+Nome
+
+Responder Questão de Programação (Personalizada)
+
+ID
+
+CU004
+
+Ator Principal
+
+Aluno Iniciante
+
+Pré-Condição
+
+Aluno está autenticado e selecionou uma lição no Mapa de Atividades.
+
+Pós-Condição
+
+Progresso e XP do Aluno são atualizados.
+
+Fluxo Principal (Sucesso)
+
+Aluno seleciona uma lição (RF-MAP).
+
+Sistema (Backend) consulta o progresso do Aluno.
+
+Sistema (IA) gera uma Questão Personalizada (RF-IA-ADAPT).
+
+Sistema (Cliente) exibe a Questão.
+
+Aluno submete a Resposta.
+
+Sistema (IA) verifica a resposta e retorna CORRETO.
+
+Sistema (Cliente) exibe feedback de acerto e recompensas (XP).
+
+Sistema (Backend) atualiza o Progresso e o Ranking (RF-GAME).
+
+Fluxo Alternativo (Ajuda - RF-IA-ADAPT)
+
+6a. Sistema (IA) verifica a resposta e retorna INCORRETO.
+7a. Sistema (Cliente) exibe feedback de erro.
+8a. Aluno clica em "Solicitar Dica".
+9a. Sistema (IA) gera uma Dica Não Solutiva (auxílio).
+10a. Sistema (Cliente) exibe a Dica.
+11a. Aluno tenta responder novamente (retorna ao Passo 5 do Fluxo Principal).
+
+4.5 Diagrama de Atividades (Fluxo Crítico: Responder Questão)
+
+@startuml
+skinparam activity {
+  BorderColor #58509e
+  BackgroundColor #9356F6
+  FontColor white
+  FontSize 14
+}
+|Cliente|
+start
+:Seleciona Atividade Rápida;
+|Backend|
+:Recebe requisição;
+:Consulta Progresso do Usuário;
+|Serviço de IA|
+:Gera Questão Personalizada;
+|Backend|
+:Envia Questão ao Cliente;
+|Cliente|
+:Exibe Questão e Opções;
+:Usuário submete Resposta;
+|Backend|
+:Recebe Resposta;
+:Verifica a Resposta;
+if (Resposta Correta?) then (Sim)
+  |Cliente|
+  :Exibe Feedback de Acerto;
+  :Concede XP e Recompensas;
+  |Backend|
+  :Atualiza Progresso/XP do Usuário;
+  stop
+else (Não)
+  |Cliente|
+  :Exibe Feedback de Erro;
+  if (Solicita Dica/Auxílio?) then (Sim)
+    |Serviço de IA|
+    :Gera Dica Não Solutiva;
+    |Cliente|
+    :Exibe Dica;
+    :Usuário insere nova Resposta;
+    -> Backend;
+  else (Não)
+    :Retorna à Questão;
+    -> Cliente;
+  endif
+endif
+@enduml
+
+
+5. Análise de Mercado (Concorrentes)
+
+RECURSO
+
+CODESTUDY
+
+MIMO
+
+SOLOLEARN
+
+DATACAMP
+
+Possui assinatura
+
+SIM
+
+SIM
+
+SIM
+
+SIM
+
+Gratuito
+
+EM PARTE
+
+EM PARTE
+
+–
+
+EM PARTE
+
+Formato de jogo
+
+SIM
+
+SIM
+
+SIM
+
+SIM
+
+Ranking
+
+SIM
+
+SIM
+
+SIM
+
+SIM
+
+Aprendizado personalizado
+
+SIM
+
+SIM
+
+SIM
+
+SIM
+
+Mapa de evolução
+
+SIM
+
+SIM
+
+NÃO
+
+SIM
+
+Plataforma
+
+MOBILE
+
+MOBILE/WEB
+
+MOBILE/WEB
+
+MOBILE/WEB
+
+Parceria com instituições
+
+SIM
+
+NÃO
+
+NÃO
+
+SIM
+
+Tarefas criadas por IA
+
+SIM
+
+NÃO
+
+NÃO
+
+NÃO
+
+Assistência por IA
+
+SIM
+
+SIM
+
+SIM
+
+SIM
+
+6. Histórico de Alterações
+
+Data
+
+Alteração
+
+Autor
+
+2025-10-17
+
+Criação e preenchimento do documento
+
+Guilherme Mayer
+
+2025-11-11
+
+Formatação ABEX-III (UML, MER, Fluxos)
+
+(Seu Nome/Gemini)
