@@ -143,9 +143,9 @@ Como podemos tornar o aprendizado de programação mais acessível, dinâmico e 
 | :--- | :--- | :--- | :--- | :--- |
 | Aplicativo gamificado | 3 | 3 | 2 | 8 |
 | Feedback automatizado por IA | 3 | 2 | 3 | 8 |
-| Trilhas personalizadas de aprendizado | 3 | 2 | 3 | 8 |
+| Trilhas personalizadas de aprendizado | 3 | 2 | 2 | 7 |
 | Ranking e competições | 3 | 3 | 1 | 7 |
-| Sistema de recompensas e skins | 2 | 3 | 2 | 7 |
+| Sistema de recompensas  | 2 | 3 | 2 | 7 |
 Ideias Selecionadas: Gamificação com recompensas, IA adaptativa para personalização e Rankings/desafios sociais.
 
 2.4 Prototipação (Fluxo Crítico)
