@@ -145,3 +145,79 @@ Como podemos tornar o aprendizado de programação mais acessível, dinâmico e 
 | Trilhas personalizadas de aprendizado | 3 | 2 | 3 | 8 |
 | Ranking e competições | 3 | 3 | 1 | 7 |
 | Sistema de recompensas e skins | 2 | 3 | 2 | 7 |
+Ideias Selecionadas: Gamificação com recompensas, IA adaptativa para personalização e Rankings/desafios sociais.
+
+2.4 Prototipação (Fluxo Crítico)
+
+O protótipo foi desenvolvido no Figma e apresenta as principais telas do CodeStudy (Login, Seleção de Interesses, Atividades, Ranking e Perfil).
+
+Link do Protótipo (Figma): https://www.figma.com/proto/rvt8KGKre7Cs6IbshaywvO
+
+Telas Principais
+
+(Imagens dos mockups devem ser inseridas aqui, se disponíveis no repositório)
+
+2.5 Testes e Validação
+
+Planejamento: Teste funcional das telas de cadastro, lições e ranking; Teste de usabilidade com usuários iniciantes.
+
+Feedback (Inicial): Usuários destacaram a clareza das atividades e a sensação de progresso contínuo.
+
+Próximo Passo: Executar o roteiro de teste rápido (conforme docs/testes/roteiro_teste_rapido.md) para validar hipóteses de usabilidade (H1, H2, H3).
+
+3. Requisitos e Escopo (IEEE)
+
+3.1 Visão e Escopo
+
+Visão do Produto: Revolucionar o ensino básico de programação, tornando-o tão acessível e viciante quanto um jogo mobile, por meio de IA e gamificação.
+
+Escopo: O produto é um aplicativo MOBILE (iOS/Android) focado no ensino de lógica da programação e algoritmos para iniciantes.
+
+Interfaces Externas: APIs de Autenticação (Google/Apple), APIs de IA (Geração/Correção de conteúdo) e Plataformas (Play Store/App Store).
+
+Restrições: Limitações orçamentárias e técnicas para o desenvolvimento da IA; Dependência de conexões estáveis com servidores de dados.
+
+3.2 Requisitos Funcionais (RFs)
+
+RF-AUTH: Cadastro e autenticação de usuários (Email, Google, Apple).
+
+RF-LEARN: Seleção de linguagens/áreas de interesse.
+
+RF-GAME: Sistema de pontuação (XP), recompensas e ranking.
+
+RF-MAP: Visualização do mapa de evolução (trilhas de aprendizado).
+
+RF-IA-GEN: A IA deve gerar problemas e verificar automaticamente as soluções.
+
+RF-IA-ADAPT: A IA deve criar e evoluir trilhas personalizadas.
+
+3.3 Requisitos Não Funcionais (RNFs)
+
+Usabilidade: Interface responsiva, intuitiva e acessível.
+
+Desempenho: Desempenho otimizado em dispositivos móveis (consumo de bateria e dados).
+
+Segurança: Proteção de dados conforme a LGPD.
+
+Disponibilidade: Alta disponibilidade e estabilidade do sistema (backend).
+
+4. Arquitetura e Modelagem (UML/MER)
+
+4.1 Diagrama de Componentes (Cliente ↔ API ↔ BD)
+
+A arquitetura segue o modelo de três camadas, com um componente de IA desacoplado para personalização.
+
+
+LOCAL IMAGEM DIAGRAMA DE COMPONENTES
+
+
+4.2 Visão de Dados (MER Simplificado)
+
+A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário.
+
+
+LOCAL IMAGEM DIAGRAMA 
+
+
+
+
