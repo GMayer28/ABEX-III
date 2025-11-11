@@ -218,6 +218,22 @@ A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário
 
 LOCAL IMAGEM DIAGRAMA 
 
+4.3 Modelo de Casos de Uso (UML)
 
+O modelo detalha as principais interações do aluno com o sistema.
+
+Diagrama PlantUML:
+
+LOCAL IMAGEM DIAGRAMA
+
+
+4.4 Descrição Textual de Caso de Uso Crítico
+
+| Atributo | Descrição | 
+ | ----- | ----- | 
+| **Nome** | Responder Questão de Programação | 
+| **Ator Principal** | Aluno Iniciante | 
+| **Fluxo Principal** | Seleciona lição $\rightarrow$ Sistema solicita Questão da IA $\rightarrow$ Usuário submete resposta $\rightarrow$ Sistema verifica $\rightarrow$ Atualiza XP e Progresso. | 
+| **Alternativo A (Uso de Dica)** | Se Incorreto, Aluno solicita Dica Não Solutiva (Gerada pela IA) e tenta novamente. |
 
 
