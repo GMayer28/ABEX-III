@@ -3,7 +3,7 @@ ABEX-III: Projeto CodeStudy
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/da2afeea1bf4863e7e76aa09426ba46b5519f359/img/logo.png" />
 </div>
-https://www.canva.com/design/DAGkRr9MoMc/Six2iWn9nv7fMULJAZBmZg/edit?utm_content=DAGkRr9MoMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 "Aprenda a programar de um jeito fácil, divertido e interativo!"
 
 🚀 Pitch (Visão Rápida)
@@ -15,6 +15,8 @@ Solução: CodeStudy, um aplicativo mobile gamificado que utiliza Inteligência 
 Diferenciais: Adaptação automática ao nível do usuário, experiência de aprendizado em formato de jogo e engajamento contínuo com recompensas e ranking.
 
 Impacto: Maior acessibilidade ao ensino de programação, redução da evasão e estímulo à formação de novos profissionais da área tecnológica.
+
+Link direto para o Pitch: https://www.canva.com/design/DAGkRr9MoMc/Six2iWn9nv7fMULJAZBmZg/edit?utm_content=DAGkRr9MoMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 | Etapa | Status | Referência |
