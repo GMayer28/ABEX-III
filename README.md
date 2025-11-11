@@ -19,31 +19,6 @@ Impacto: Maior acessibilidade ao ensino de programação, redução da evasão e
 Link direto para o Pitch: https://www.canva.com/design/DAGkRr9MoMc/Six2iWn9nv7fMULJAZBmZg/edit?utm_content=DAGkRr9MoMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-| Etapa | Status | Referência |
-| :--- | :--- | :--- |
-| **Repositório e Organização** | | |
-| Repositório Criado no GitHub | **\[x] Concluído** | |
-| Pasta `docs/` para artefatos | **\[x] Conclcído** | Criar pastas `docs/diagramas` e `docs/testes`. |
-| Ativar Project (Kanban) | **\[X] Parcial** | Ligar o GitHub Project ao repositório. |
-| **Design Thinking (DT)** | | |
-| DT: Empatia/Imersão | **\[x] Concluído** | Seção 2.1 |
-| DT: Definição (Persona, Jornada, "Como Podemos...") | **\[x] Concluído** | Seção 2.2 |
-| DT: Ideação (Matriz de Ideias) | **\[x] Concluído** | Seção 2.3 |
-| DT: Prototipação (Mockups Figma) | **\[x] Concluído** | Seção 2.4 |
-| DT: Testes/Validação (Roteiro) | **\[ ] Pendente** | `docs/testes/roteiro_teste_rapido.md` |
-| **Requisitos** | | |
-| Visão, Escopo, Interfaces Externas, Restrições | **\[x] Concluído** | Seção 3.1 |
-| Requisitos Funcionais (RF) | **\[x] Concluído** | Seção 3.2 |
-| Requisitos Não Funcionais (RNF) | **\[x] Concluído** | Seção 3.3 |
-| **Arquitetura e Modelagem (UML/MER)** | | |
-| Diagrama de Componentes (Cliente ↔ API ↔ BD) | **\[x] Concluído** | Seção 4.1 |
-| Visão de Dados (DER/MER) | **\[x] Concluído** | Seção 4.2 |
-| Modelo de Casos de Uso (UML) | **\[x] Concluído** | Seção 4.3 |
-| Descrição Textual de Caso de Uso (Fluxos) | **\[x] Concluído** | Seção 4.4 |
-| Diagrama de Atividades (Fluxo Crítico) | **\[x] Concluído** | Seção 4.5 |
-| **Entrega** | | |
-| Gerar Release `v0.3-ABEXIII` (Pós-apresentação) | **\[ ] Pendente** | |
-
 1. Visão Geral do Projeto
 
 1.1 Objetivo
@@ -283,6 +258,31 @@ O fluxo de execução e verificação da resposta está detalhado no diagrama de
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/Diagrama%20atividades.png" />
 </div>
+
+| Etapa | Status | Referência |
+| :--- | :--- | :--- |
+| **Repositório e Organização** | | |
+| Repositório Criado no GitHub | **\[x] Concluído** | |
+| Pasta `docs/` para artefatos | **\[x] Conclcído** | Criar pastas `docs/diagramas` e `docs/testes`. |
+| Ativar Project (Kanban) | **\[X] Parcial** | Ligar o GitHub Project ao repositório. |
+| **Design Thinking (DT)** | | |
+| DT: Empatia/Imersão | **\[x] Concluído** | Seção 2.1 |
+| DT: Definição (Persona, Jornada, "Como Podemos...") | **\[x] Concluído** | Seção 2.2 |
+| DT: Ideação (Matriz de Ideias) | **\[x] Concluído** | Seção 2.3 |
+| DT: Prototipação (Mockups Figma) | **\[x] Concluído** | Seção 2.4 |
+| DT: Testes/Validação (Roteiro) | **\[ ] Pendente** | `docs/testes/roteiro_teste_rapido.md` |
+| **Requisitos** | | |
+| Visão, Escopo, Interfaces Externas, Restrições | **\[x] Concluído** | Seção 3.1 |
+| Requisitos Funcionais (RF) | **\[x] Concluído** | Seção 3.2 |
+| Requisitos Não Funcionais (RNF) | **\[x] Concluído** | Seção 3.3 |
+| **Arquitetura e Modelagem (UML/MER)** | | |
+| Diagrama de Componentes (Cliente ↔ API ↔ BD) | **\[x] Concluído** | Seção 4.1 |
+| Visão de Dados (DER/MER) | **\[x] Concluído** | Seção 4.2 |
+| Modelo de Casos de Uso (UML) | **\[x] Concluído** | Seção 4.3 |
+| Descrição Textual de Caso de Uso (Fluxos) | **\[x] Concluído** | Seção 4.4 |
+| Diagrama de Atividades (Fluxo Crítico) | **\[x] Concluído** | Seção 4.5 |
+| **Entrega** | | |
+| Gerar Release `v0.3-ABEXIII` (Pós-apresentação) | **\[ ] Pendente** | |
 
 
 
