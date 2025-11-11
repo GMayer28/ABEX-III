@@ -1,6 +1,7 @@
 ABEX-III: Projeto CodeStudy
+
 <div align="center">
-<img src="" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/da2afeea1bf4863e7e76aa09426ba46b5519f359/img/logo.png" />
 </div>
 
 "Aprenda a programar de um jeito fácil, divertido e interativo!"
