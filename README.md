@@ -224,7 +224,7 @@ A arquitetura segue o modelo de três camadas, com um componente de IA desacopla
 </div>
 
 
-4.2 Visão de Dados (MER Simplificado)
+4.2 Visão de Dados (Diagrama de classes)
 
 A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário.
 
