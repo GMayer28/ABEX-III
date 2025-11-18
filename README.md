@@ -101,36 +101,12 @@ Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigua
 
 2.2 Definição e Síntese
 
-2.2.1 Persona
+2.2.1 Personas
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/94f8dd3c3b3f95f74de8544e86c9132ff45a476c/img/Persona%201.png" />
 </div>
 
-Nome: João Alves
 
-Idade: 19 anos
-
-Perfil: Estudante do primeiro semestre de Ciência da Computação.
-
-Necessidades: Melhorar sua base em lógica e programação de forma prática.
-
-Motivações: Interesse em tecnologia e busca por um método de aprendizado mais dinâmico.
-
-Dores: Falta de didática nas aulas tradicionais e dificuldade de acompanhar o ritmo do curso.
-
-2.2.2 Jornada do Usuário (Fluxo Crítico)
-
-João descobre o app CodeStudy em uma rede social.
-
-Realiza o cadastro e escolhe suas áreas de interesse.
-
-Inicia as lições introdutórias com desafios curtos e pontuação.
-
-Recebe feedback imediato da IA e avança para novos níveis.
-
-Compete em rankings com outros usuários e acompanha sua evolução.
-
-Sente-se motivado a continuar e explorar conteúdos mais avançados.
 
 2.2.3 Problema Central (Como Podemos...?)
 
