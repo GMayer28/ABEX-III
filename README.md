@@ -106,6 +106,9 @@ Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigua
 <img src="https://github.com/GMayer28/ABEX-III/blob/94f8dd3c3b3f95f74de8544e86c9132ff45a476c/img/Persona%201.png" />
 </div>
 
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/4f38239d217501ab25c0cae01e2d499a010ed966/img/Persona%202.jpg" />
+</div>
 
 
 2.2.3 Problema Central (Como Podemos...?)
