@@ -103,7 +103,7 @@ Macroambiente: Fatores sociais (falta de incentivo), econômicos (acesso desigua
 
 2.2.1 Persona
 <div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/3c9e0d046bb0a09107edc3bc106d10cb9d2f1d77/img/Persona.png" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/94f8dd3c3b3f95f74de8544e86c9132ff45a476c/img/Persona%201.png" />
 </div>
 
 Nome: João Alves
