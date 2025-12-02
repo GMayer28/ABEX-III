@@ -238,6 +238,12 @@ O fluxo de execução e verificação da resposta está detalhado no diagrama de
 <img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/Diagrama%20atividades.png" />
 </div>
 
+
+5 MapKin Pitch
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/246e0565f94dfd1847248ac688d1972fb71837a6/img/Exerc%C3%ADcio%20Parte%20II%20-%20Template%20Design%20Thinking.pptx.png" />
+</div>
+
  Etapas de desenvolvimento 
 
 | Etapa | Status | Referência |
