@@ -232,8 +232,6 @@ O modelo detalha as principais interações do aluno com o sistema.
 
 4.5 Diagrama de Atividades
 
-O fluxo de execução e verificação da resposta está detalhado no diagrama de atividades.
-
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/9ca89d84fd262bda13fa2273cb46a436e016c221/img/Atividades.jpeg" />
 </div>
