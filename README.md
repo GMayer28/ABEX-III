@@ -199,7 +199,7 @@ A arquitetura segue o modelo de três camadas, com um componente de IA desacopla
 
 
 <div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/diagrama%20de%20componentes.png" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/ee43309586af34a6d90da739545e8ee1b0985e47/img/Componentes.jpeg" />
 </div>
 
 
@@ -217,7 +217,7 @@ A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário
 O modelo detalha as principais interações do aluno com o sistema.
 
 <div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/UML.png" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/ee43309586af34a6d90da739545e8ee1b0985e47/img/UML.jpeg" />
 </div>
 
 
