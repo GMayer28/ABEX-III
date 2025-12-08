@@ -236,6 +236,11 @@ O modelo detalha as principais interações do aluno com o sistema.
 <img src="https://github.com/GMayer28/ABEX-III/blob/9ca89d84fd262bda13fa2273cb46a436e016c221/img/Atividades.jpeg" />
 </div>
 
+4.6 Diagrama de Sequência
+
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/76d8000a15d6e5a133713f015ce580b75c67a13b/img/Diagrama%20de%20sequ%C3%AAncia.png" />
+</div>
 
 5 NapKin Pitch
 <div align="center">
