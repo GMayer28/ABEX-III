@@ -208,7 +208,7 @@ A arquitetura segue o modelo de três camadas, com um componente de IA desacopla
 A modelagem básica suporta Usuários, Atividades e o Progresso de cada usuário.
 
 <div align="center">
-<img src="https://github.com/GMayer28/ABEX-III/blob/2352d28ca640593da4827fffe66af94027535f1d/img/Diagrama%20vis%C3%A3o%20de%20dados.png" />
+<img src="https://github.com/GMayer28/ABEX-III/blob/2369857ec865746793dabeaf10280f4046ba1764/img/Diagrama%20de%20classes.png" />
 </div>
 
 
@@ -240,6 +240,11 @@ O modelo detalha as principais interações do aluno com o sistema.
 
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/76d8000a15d6e5a133713f015ce580b75c67a13b/img/Diagrama%20de%20sequ%C3%AAncia.png" />
+</div>
+
+4.7 Diagrama de Implantação
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/2369857ec865746793dabeaf10280f4046ba1764/Diagrama%20de%20implantação.png" />
 </div>
 
 5 NapKin Pitch
