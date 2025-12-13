@@ -247,6 +247,12 @@ O modelo detalha as principais interações do aluno com o sistema.
 <img src="https://github.com/GMayer28/ABEX-III/blob/2369857ec865746793dabeaf10280f4046ba1764/Diagrama%20de%20implantação.png" />
 </div>
 
+4.8 Diagrama de padrões de projeto
+<div align="center">
+<img src="https://github.com/GMayer28/ABEX-III/blob/0b197250c28e8180989901fc3f5cfdabefb9c725/img/Diagrama%20Design%20Pattern.png" />
+</div
+
+
 5 NapKin Pitch
 <div align="center">
 <img src="https://github.com/GMayer28/ABEX-III/blob/246e0565f94dfd1847248ac688d1972fb71837a6/img/Exerc%C3%ADcio%20Parte%20II%20-%20Template%20Design%20Thinking.pptx.png" />
