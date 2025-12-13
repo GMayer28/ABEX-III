@@ -252,6 +252,27 @@ O modelo detalha as principais interações do aluno com o sistema.
 <img src="https://github.com/GMayer28/ABEX-III/blob/0b197250c28e8180989901fc3f5cfdabefb9c725/img/Diagrama%20Design%20Pattern.png" />
 </div
 
+4.8.1 Padrões de projeto(Justificativa)
+
+  Justificativa da Escolha:
+O padrão Strategy permite definir uma família de algoritmos (estratégias de geração), encapsulá-los e torná-los intercambiáveis.
+
+Benefício: Evita condicionais complexos (if/else) na classe principal de serviço (LearningService).
+
+Flexibilidade: Permite trocar a estratégia de geração (ex: de "Gerar Questão" para "Gerar Dica") em tempo de execução, 
+dependendo da ação do utilizador, sem alterar o código do cliente.
+
+  Justificativa da Escolha:
+O padrão Observer define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, 
+todos os seus dependentes são notificados e atualizados automaticamente.
+
+Benefício: Desacopla o LearningService (Sujeito) do GamificationService (Observador). 
+
+O serviço de aprendizado não precisa saber como a gamificação funciona, apenas avisa que o progresso ocorreu.
+
+Manutenibilidade: Facilita a adição de novos observadores (ex: enviar um e-mail de parabéns) sem modificar o código do núcleo de aprendizado.
+
+
 
 5 NapKin Pitch
 <div align="center">
