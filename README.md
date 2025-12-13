@@ -255,6 +255,7 @@ O modelo detalha as principais interações do aluno com o sistema.
 4.8.1 Padrões de projeto(Justificativa)
 
   Justificativa da Escolha:
+  
 O padrão Strategy permite definir uma família de algoritmos (estratégias de geração), encapsulá-los e torná-los intercambiáveis.
 
 Benefício: Evita condicionais complexos (if/else) na classe principal de serviço (LearningService).
@@ -263,6 +264,7 @@ Flexibilidade: Permite trocar a estratégia de geração (ex: de "Gerar Questão
 dependendo da ação do utilizador, sem alterar o código do cliente.
 
   Justificativa da Escolha:
+  
 O padrão Observer define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, 
 todos os seus dependentes são notificados e atualizados automaticamente.
 
@@ -271,6 +273,14 @@ Benefício: Desacopla o LearningService (Sujeito) do GamificationService (Observ
 O serviço de aprendizado não precisa saber como a gamificação funciona, apenas avisa que o progresso ocorreu.
 
 Manutenibilidade: Facilita a adição de novos observadores (ex: enviar um e-mail de parabéns) sem modificar o código do núcleo de aprendizado.
+
+  Conclusão
+  
+A aplicação dos padrões Strategy e Observer trouxe robustez à arquitetura do CodeStudy. 
+
+O Strategy permitiu que o sistema alternasse entre gerar questões e dicas de forma transparente, facilitando a integração com a IA. 
+
+O Observer garantiu que o sistema de gamificação pudesse crescer e evoluir sem impactar o núcleo de aprendizado, promovendo um código limpo, reutilizável e de fácil manutenção.
 
 
 
